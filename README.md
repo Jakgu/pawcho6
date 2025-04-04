@@ -19,9 +19,9 @@ docker run --rm -d -p 80:80 --hostname=lab6 --name lab6 lab6
 docker ps
 ```
 
-![Weryfikacja działania i stanu kontenera](screenshots/status.png)
+![Weryfikacja działania i stanu kontenera](screenshots/l6s1.jpg)
 
 ### Działanie w przeglądarce (http://localhost):
 
-![Realizowanie wymaganej funkcjonalności](screenshots/potwierdzenie_dzialania.png)
+![Realizowanie wymaganej funkcjonalności](screenshots/l6s2.jpg)
 
